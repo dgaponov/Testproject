@@ -1,0 +1,15 @@
+{
+    "name": "daniil/testproject",
+    "authors": [
+        {
+            "name": "daniil",
+            "email": "filmiks@ya.ru"
+        }
+    ],
+    "require": {
+        "parsecsv/php-parsecsv": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {"Classes\\": "Classes/"}
+    }
+}

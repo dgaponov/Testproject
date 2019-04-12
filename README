@@ -1,0 +1,6 @@
+composer install
+
+php user_text_util.php semicolon countAverageLineCount
+php user_text_util.php semicolon replaceDates
+php user_text_util.php comma countAverageLineCount
+php user_text_util.php comma replaceDates
